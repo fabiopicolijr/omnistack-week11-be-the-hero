@@ -51,10 +51,14 @@ module.exports = {
         const {id} = request.params;
         const institute_id = request.headers.authorization;
 
+        console.log(id);
+        console.log(request.headers.authorization);
+
         const incident = await connection('incidents')
             .where('id', id)
             .select('institute_id')
             .first();
+
         
         if(incident.institute_id != institute_id){
             return response.status(401).json({ error: 'Operation not permited.'});
