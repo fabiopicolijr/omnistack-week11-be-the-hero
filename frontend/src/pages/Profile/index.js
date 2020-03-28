@@ -44,8 +44,12 @@ export default function Profile(){
     }
 
     function handleLogout(){
+        console.log('inicio');
         localStorage.clear();
+        console.log('meio');
         history.push('/');
+        console.log('fim');
+
     }
 
     return(
