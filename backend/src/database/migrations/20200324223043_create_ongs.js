@@ -1,9 +1,10 @@
-exports.up = function(knex) {
 
-    // caguei o banco, mas a culpa foi do Diego porque eu segui o que estava no video, pqp. uahsuhashuahushuas.
-    return knex.schema.dropTable('ongs');
+exports.up = function(knex) {
+    return knex.schema.createTable('ongs', function (table) {
+        table.string('id').primary();
+      });
 };
 
 exports.down = function(knex) {
-    return "";
+    return knex.schema.dropTable('ongs');  
 };
