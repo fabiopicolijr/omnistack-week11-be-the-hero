@@ -6,6 +6,7 @@
     <img src="frontend/src/assets/be-the-hero.gif">
 </h1>
 
+
 # Indice
 - [About](#-:pencil2:-about)
 - [Techs](#-:robot:-techs)
@@ -14,7 +15,7 @@
 
 ---
 
-## :pencil2: About 
+##  :pencil2: About 
 
 The system **Be The Hero** is an system to helps **ONG's** to find sponsors. It was created whithin the event **Semana OmniStack11 - RocketSeat's** in order to put into practice all the content studied during the course.
 
@@ -22,7 +23,7 @@ The system **Be The Hero** is an system to helps **ONG's** to find sponsors. It 
 ---
 
 
-## :robot: Techs
+##  :robot: Techs
 
 - [ReactJs](https://reactjs.org)
 - [ReactNative](https://reactnative.dev)
@@ -32,7 +33,7 @@ The system **Be The Hero** is an system to helps **ONG's** to find sponsors. It 
 ---
 
 
-## :checkered_flag: How-to
+##  :checkered_flag: How-to
 
 
 ```bash
