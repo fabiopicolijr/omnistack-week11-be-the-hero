@@ -17,7 +17,7 @@
 
 ##  :pencil2: About 
 
-The system **Be The Hero** is an system to helps **ONG's** to find sponsors. It was created whithin the event **Semana OmniStack11 - RocketSeat's** in order to put into practice all the content studied during the course.
+**Be The Hero** is a system to helps **NGO's** to find sponsors. It was created whithin the event **Semana OmniStack11 - RocketSeat's** in order to put into practice all the content studied during the course.
 
 
 ---
