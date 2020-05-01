@@ -6,17 +6,17 @@
     <img src="frontend/src/assets/be-the-hero.gif">
 </h1>
 
-# Índice
-- [About](#:pencil2:-about)
-- [Techs](#:robot:-techs)
-- [How-to](#:checkered_flag:-how-to)
+# Indice
+- [About](#-:pencil2:-about)
+- [Techs](#-:robot:-techs)
+- [How-to](#-:checkered_flag:-how-to)
 
 
 ---
 
 ## :pencil2: About 
 
-O projeto **Be The Hero** é um sistema para ajudar **ONG's** a encontrar patrocinadores e foi criado dentro do evento **Semana OmniStack11** com o intuito de colocarmos em prática todo o conteúdo estudado durante o curso.
+The system **Be The Hero** is an system to helps **ONG's** to find sponsors. It was created whithin the event **Semana OmniStack11 - RocketSeat's** in order to put into practice all the content studied during the course.
 
 
 ---
