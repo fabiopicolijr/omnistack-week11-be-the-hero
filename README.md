@@ -7,14 +7,14 @@
 </h1>
 
 # Índice
-- [About](-:pencil2:-about)
-- [Techs](-:robot:-techs)
-- [How to](-:checkered_flag:-how-to)
+- [About](#-about)
+- [Techs](#-techs)
+- [How to](#-how-to)
 
 
+---
 
 ## About 
-
 
 O projeto **Be The Hero** é um sistema para ajudar **ONG's** a encontrar patrocinadores e foi criado dentro do evento **Semana Omnistack11 :rocket:** com o intuito de colocarmos em prática todo o conteúdo estudado durante o curso.
 
@@ -22,17 +22,14 @@ O projeto **Be The Hero** é um sistema para ajudar **ONG's** a encontrar patroci
 ---
 
 
-
 ## Techs
 
-
-- [ReactJs] (https://reactjs.org)
-- [ReactNative] (https://reactnative.dev)
-- [Expo] (https://expo.io/)
+- [ReactJs](https://reactjs.org)
+- [ReactNative](https://reactnative.dev)
+- [Expo](https://expo.io/)
 
 
 ---
-
 
 
 ## How-to
@@ -42,20 +39,18 @@ O projeto **Be The Hero** é um sistema para ajudar **ONG's** a encontrar patroci
 
 $ git clone https://github.com/fabiopicolijr/be-the-hero
 
-
 $ cd backend
 
 $ yarn start
 
-$ cd../frontend
+$ cd ../frontend
 
 $ yarn start
 
-$ cd../mobiles
+$ cd ../mobiles
 
 $ expo start
 ```
-
 
 ---
 Developed :sparkles: by @fabiopicolijr.
