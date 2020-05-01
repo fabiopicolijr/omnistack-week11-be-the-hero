@@ -6,12 +6,12 @@
     <img src="frontend/src/assets/be-the-hero.gif">
 </h1>
 
-
+<!--
 # Indice
 - [About](#-:pencil2:-about)
 - [Techs](#-:robot:-techs)
 - [How-to](#-:checkered_flag:-how-to)
-
+-->
 
 ---
 
