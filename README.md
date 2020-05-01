@@ -7,22 +7,22 @@
 </h1>
 
 # Índice
-- [About](#-about)
-- [Techs](#-techs)
-- [How to](#-how-to)
+- [About](#:pencil2:-about)
+- [Techs](#:robot:-techs)
+- [How-to](#:checkered_flag:-how-to)
 
 
 ---
 
-## About 
+## :pencil2: About 
 
-O projeto **Be The Hero** é um sistema para ajudar **ONG's** a encontrar patrocinadores e foi criado dentro do evento **Semana Omnistack11 :rocket:** com o intuito de colocarmos em prática todo o conteúdo estudado durante o curso.
+O projeto **Be The Hero** é um sistema para ajudar **ONG's** a encontrar patrocinadores e foi criado dentro do evento **Semana OmniStack11** com o intuito de colocarmos em prática todo o conteúdo estudado durante o curso.
 
 
 ---
 
 
-## Techs
+## :robot: Techs
 
 - [ReactJs](https://reactjs.org)
 - [ReactNative](https://reactnative.dev)
@@ -32,7 +32,7 @@ O projeto **Be The Hero** é um sistema para ajudar **ONG's** a encontrar patroci
 ---
 
 
-## How-to
+## :checkered_flag: How-to
 
 
 ```bash
@@ -54,9 +54,3 @@ $ expo start
 
 ---
 Developed :sparkles: by @fabiopicolijr.
-
-<!--
-:pencil2: 
-:checkered_flag:
-:robot: 
- >
