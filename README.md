@@ -7,23 +7,23 @@
 </h1>
 
 # Índice
-- [About](#-:pencil2:-about)
-- [Techs](#-:robot:-techs)
-- [How to](#-:checkered_flag:-how-to)
+- [About](-:pencil2:-about)
+- [Techs](-:robot:-techs)
+- [How to](-:checkered_flag:-how-to)
 
 
 
-## :pencil2: About 
+## About 
 
 
-O projeto **Be The Hero** é um sistema para ajudar **ONG's** a encontrar patrocinadores e foi criado dentro do evento **Semana Omnistack11 :rocket: ** com o intuito de colocarmos em prática todo o conteúdo estudado durante o curso.
+O projeto **Be The Hero** é um sistema para ajudar **ONG's** a encontrar patrocinadores e foi criado dentro do evento **Semana Omnistack11 :rocket:** com o intuito de colocarmos em prática todo o conteúdo estudado durante o curso.
 
 
 ---
 
 
 
-## :robot: Techs
+## Techs
 
 
 - [ReactJs] (https://reactjs.org)
@@ -35,11 +35,13 @@ O projeto **Be The Hero** é um sistema para ajudar **ONG's** a encontrar patroci
 
 
 
-## :checkered_flag: How-to
+## How-to
 
 
 ```bash
+
 $ git clone https://github.com/fabiopicolijr/be-the-hero
+
 
 $ cd backend
 
@@ -57,3 +59,9 @@ $ expo start
 
 ---
 Developed :sparkles: by @fabiopicolijr.
+
+<!--
+:pencil2: 
+:checkered_flag:
+:robot: 
+ >
