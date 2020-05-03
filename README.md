@@ -21,7 +21,7 @@
 <p align="center">
   <a href="#fire-about-the-project">About the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#art-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-how-to-run">How-to run</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#electric_plug-how-to-run">How-to run</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#link-routes">Routes</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">License</a>
 </p>
@@ -45,7 +45,7 @@
 
 ##  :art: Layout
 
-Você pode visualizar o layout do projeto no formato através [desse link](https://www.figma.com/file/2C2yvw7jsCOGmaNUDftX9n/Be-The-Hero---OmniStack-11?node-id=37%3A394). Lembrando que você irá precisar ter uma conta no [Figma](http://figma.com/).
+See project's layout at [be-the-hero-layout](https://www.figma.com/file/2C2yvw7jsCOGmaNUDftX9n/Be-The-Hero---OmniStack-11?node-id=37%3A394). Remember that you will have to login or create an account at [Figma](http://figma.com/).
 <br />
 <br />
 
@@ -109,7 +109,7 @@ Você pode visualizar o layout do projeto no formato através [desse link](https
 
 ---
 
-## Status Codes
+## :traffic_light: Status Codes
 
 Be the hero returns the following status codes in its API:
 
