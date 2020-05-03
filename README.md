@@ -115,11 +115,11 @@ Be the hero returns the following status codes in its API:
 
 | Status Code | Description |
 | :--- | :--- |
-| 200 | `OK` |
-| 422 | `UNPROCESSABLE ENTITY` |
-| 400 | `BAD REQUEST` |
-| 404 | `NOT FOUND` |
-| 500 | `INTERNAL SERVER ERROR` |
+| <span style="color:green;">200</span> | `OK` |
+| <span style="color:red;">422</span> | `UNPROCESSABLE ENTITY` |
+| <span style="color:red;">400</span> | `BAD REQUEST` |
+| <span style="color:red;">404</span> | `NOT FOUND` |
+| <span style="color:red;">500</span> | `INTERNAL SERVER ERROR` |
 <br />
 
 ---
