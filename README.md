@@ -65,6 +65,7 @@ See project's layout at [be-the-hero-layout](https://www.figma.com/file/2C2yvw7j
   # BACK-END - Start application
   yarn dev
 
+  ######
 
   # FRONT-END-WEB - Install dependencies
   $ cd frontend
@@ -76,6 +77,7 @@ See project's layout at [be-the-hero-layout](https://www.figma.com/file/2C2yvw7j
   # FRONT-END-WEB - Start application
   $ yarn dev
 
+  ######
 
   # FRONT-END-MOBILE - Install dependencies
   $ cd mobiles
