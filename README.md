@@ -93,7 +93,7 @@ See project's layout at [be-the-hero-layout](https://www.figma.com/file/2C2yvw7j
 
 ---
 
-## :link: Routes
+## :link: &nbsp;&nbsp;Routes
 - **User Resources**:
   - **<code>GET</code> /profile**
   - **<code>POST</code> /login**
