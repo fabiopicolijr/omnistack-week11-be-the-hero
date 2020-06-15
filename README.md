@@ -1,7 +1,7 @@
 <h1 align="center"><img src="frontend/src/assets/logo.svg"></h1>
 
 <h4 align="center">
-  🚀 Rocketseat Omnistack Week 11
+  🚀 &nbsp;&nbsp;Rocketseat Omnistack Week 11
 </h4>
 
 <p align="center">
@@ -34,7 +34,7 @@
 
 ---
 
-##  :fire: About the project
+##  :fire: &nbsp;&nbsp;About the project
 
 <p>
   <b>Be The Hero</b> is a system to helps <b>NGO's</b> to find sponsors. It was created whithin the event <b>Semana OmniStack11 - RocketSeat's</b> in order to put into practice all the content studied during the course.
@@ -43,7 +43,7 @@
 
 ---
 
-##  :art: Layout
+##  :art: &nbsp;&nbsp;Layout
 
 See project's layout at [be-the-hero-layout](https://www.figma.com/file/2C2yvw7jsCOGmaNUDftX9n/Be-The-Hero---OmniStack-11?node-id=37%3A394). Remember that you will have to login or create an account at [Figma](http://figma.com/).
 <br />
@@ -51,7 +51,7 @@ See project's layout at [be-the-hero-layout](https://www.figma.com/file/2C2yvw7j
 
 ---
 
-## :electric_plug: How-to run
+## :electric_plug: &nbsp;&nbsp;How-to run
 
 ```bash
 
@@ -111,7 +111,7 @@ See project's layout at [be-the-hero-layout](https://www.figma.com/file/2C2yvw7j
 
 ---
 
-## :traffic_light: Status Codes
+## :traffic_light: &nbsp;&nbsp;Status Codes
 
 Be the hero returns the following status codes in its API:
 
@@ -126,7 +126,7 @@ Be the hero returns the following status codes in its API:
 
 ---
 
-## :memo: License
+## :memo: &nbsp;&nbsp;License
 
 MIT License. See the file [LICENSE](LICENSE.md) for more details.
 <br />
